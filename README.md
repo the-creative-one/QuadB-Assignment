@@ -61,4 +61,3 @@ The project structure is organized as follows:
 - `src/redux`: Includes Redux actions, reducers, and store configuration.
 - `src/index.css`: CSS file for styling the application.
 - `public/index.html`: Main HTML file.
-- `public/favicon.ico`: Favicon for the application.
